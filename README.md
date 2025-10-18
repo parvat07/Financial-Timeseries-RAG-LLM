@@ -1,2 +1,3 @@
 # Financial-Timeseries-RAG-LLM
 Financial Time-series Forecasting with Retrieval Augmented Large Language  Models
+This project aims to explore, replicate and extend a Retrieval-Augmented Generation (RAG) framework applied to financial time-series forecasting. The research is inspired by the FinS-RAG model, which integrates a domain-specific retriever (FinSeer) with a forecasting model (StockLLM) to improve stock movement prediction.
